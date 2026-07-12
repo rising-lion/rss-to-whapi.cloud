@@ -5,7 +5,10 @@
   },
   {
     "name": "Nigeria Money",
-    "url": "https://news.google.com/rss/search?q=Nigeria%20(fintech%20OR%20banking%20OR%20economy)&hl=en-NG&gl=NG&ceid=NG:en"
+    "url": "https://news.google.com/rss/search?q=Nigeria%20(fintech%20OR%20banking%20OR%20economy)&hl=en-NG&gl=NG&ceid=NG:en",
+    "seen": [
+      "CBMi3AFBVV95cUxPMTd4QXZtMm9JMVZLWGhHMjE4eldKOXNCS0ZOU0hoM095MnY1UU5aMEREZGJ5cU1oLUFRblQ2Y1J1SjU2OFFJNjBMWVE1SHM5MUtvOHI4Zjh3RlM4bHA3OGlQU0lkSEJ4M0p3R2tncFlKZGc5eVh5LVNuMjdxNG0xXzZJb0pydlE0UHhNZkVpbDVCdWg2SnNwLTJnY3pFc1BGNzVOQWxCeEVtN21VSEFCY2VtaTFjXy00ckRsWFdRb0xfM3VyNUNvMkdaVjdBNWt4ZGZBZ204bGxTTWdO"
+    ]
   },
   {
     "name": "Kenya Markets",
