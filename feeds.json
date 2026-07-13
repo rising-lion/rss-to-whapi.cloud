@@ -1,25 +1,22 @@
 [
   {
-    "name": "African Startup Funding",
-    "url": "https://news.google.com/rss/search?q=%22African%20startup%22%20funding%20OR%20%22Africa%20fintech%22&hl=en&gl=US&ceid=US:en"
-  },
-  {
-    "name": "Nigeria Money",
-    "url": "https://news.google.com/rss/search?q=Nigeria%20(fintech%20OR%20banking%20OR%20economy)&hl=en-NG&gl=NG&ceid=NG:en",
-    "seen": [
-      "CBMi3AFBVV95cUxPMTd4QXZtMm9JMVZLWGhHMjE4eldKOXNCS0ZOU0hoM095MnY1UU5aMEREZGJ5cU1oLUFRblQ2Y1J1SjU2OFFJNjBMWVE1SHM5MUtvOHI4Zjh3RlM4bHA3OGlQU0lkSEJ4M0p3R2tncFlKZGc5eVh5LVNuMjdxNG0xXzZJb0pydlE0UHhNZkVpbDVCdWg2SnNwLTJnY3pFc1BGNzVOQWxCeEVtN21VSEFCY2VtaTFjXy00ckRsWFdRb0xfM3VyNUNvMkdaVjdBNWt4ZGZBZ204bGxTTWdO"
-    ]
-  },
-  {
-    "name": "Kenya Markets",
-    "url": "https://news.google.com/rss/search?q=Kenya%20business%20OR%20%22Nairobi%20Securities%20Exchange%22&hl=en-KE&gl=KE&ceid=KE:en"
-  },
-  {
-    "name": "South Africa Markets",
-    "url": "https://news.google.com/rss/search?q=%22South%20Africa%22%20(economy%20OR%20JSE%20OR%20rand)&hl=en-ZA&gl=ZA&ceid=ZA:en"
-  },
-  {
     "name": "How We Made It In Africa",
     "url": "https://www.howwemadeitinafrica.com/feed/"
+  },
+  {
+    "name": "AllAfrica Business",
+    "url": "https://allafrica.com/tools/headlines/rdf/business/headlines.rdf"
+  },
+  {
+    "name": "TechCabal",
+    "url": "https://techcabal.com/feed/"
+  },
+  {
+    "name": "Disrupt Africa",
+    "url": "https://disruptafrica.com/feed/"
+  },
+  {
+    "name": "CNBC Africa",
+    "url": "https://www.cnbcafrica.com/feed/"
   }
 ]
